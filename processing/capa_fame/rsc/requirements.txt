@@ -1,4 +1,0 @@
-gitpython
--e git+https://github.com/williballenthin/vivisect.git@master#egg=vivisect
--e src/capa
-
